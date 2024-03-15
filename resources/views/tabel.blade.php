@@ -1,4 +1,4 @@
-@extends('templete')
+@extends('template')
 
 @section('main')
     <h1>ini halaman tabel</h1>
